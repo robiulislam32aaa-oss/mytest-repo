@@ -4,7 +4,14 @@ i chan my name
 ** here is my bold text.**
 *style with italic*
 [profile](https://github.com/robiulislam32aaa-oss/mytest-repo)
-# i chan my name 
-# i like to play 
-# my favroute food is fasca
-# my favroute game is free fire 
+
+![My photo](cat 000000.jpg)
+# my name is Roza 000000
+# my favroute animal is cat
+# i like to play free fire 
+# i'am 8 years old
+
+
+# My github link 
+
+https://github.com/robiulislam32aaa-oss/mytest-repo/blob/main/README.md
