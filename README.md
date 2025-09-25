@@ -5,7 +5,7 @@ i chan my name
 *style with italic*
 [profile](https://github.com/robiulislam32aaa-oss/mytest-repo)
 
-![My photo](cat 000000.jpg)
+[![My] photo](cat 000000.jpg)
 # my name is Roza 000000
 # my favroute animal is cat
 # i like to play free fire 
